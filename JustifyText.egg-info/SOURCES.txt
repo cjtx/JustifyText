@@ -1,0 +1,7 @@
+README.md
+setup.py
+JustifyText.egg-info/PKG-INFO
+JustifyText.egg-info/SOURCES.txt
+JustifyText.egg-info/dependency_links.txt
+JustifyText.egg-info/top_level.txt
+justifytext/__init__.py
