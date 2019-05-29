@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: JustifyText
-Version: 0.2.1
+Version: 0.2.1.post1
 Summary: Returns list of strings *exactly* n width
 Home-page: https://github.com/cjtx/JustifyText
 Author: cjtx
@@ -18,14 +18,14 @@ Description: #JustifyText
         ### Importing the module and using the function:
         *Option 1:
         ```
-        from justify_text import justify
+        from justifytext import justify
         justify(text, width)
         
         ```
         *Option 2:
         ```
         import justify
-        justify_text.justify(text, width)
+        justifytext.justify(text, width)
         ```
         
         ### Module Requirements/Dependencies:
