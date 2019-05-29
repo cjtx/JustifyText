@@ -10,14 +10,14 @@ you see here.
 ### Importing the module and using the function:
 *Option 1:
 ```
-from justify_text import justify
+from justifytext import justify
 justify(text, width)
 
 ```
 *Option 2:
 ```
 import justify
-justify_text.justify(text, width)
+justifytext.justify(text, width)
 ```
 
 ### Module Requirements/Dependencies:
