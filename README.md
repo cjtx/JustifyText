@@ -1,4 +1,4 @@
-#JustifyText
+# JustifyText
 
 ```
 Takes  a  string  and  inserts
@@ -8,13 +8,13 @@ you see here.
 ```
 
 ### Importing the module and using the function:
-*Option 1:
+* Option 1:
 ```
 from justifytext import justify
 justify(text, width)
 
 ```
-*Option 2:
+* Option 2:
 ```
 import justify
 justifytext.justify(text, width)
@@ -79,13 +79,12 @@ will return a iterable list that will display:
 # Sample Usage
 
 Raw text: 
-
 ```
-	text = "Now did the Lord say, \"First thou pullest the Holy Pin. Then thou must count to three.
-	Three shall be the number of the counting and the number of the counting shall be three. Four
-	shalt thou not count, neither shalt thou count two, excepting that thou then proceedeth to three.
-	Five is right out. Once the number three, being the number of the counting, be reached, then lobbest
-	thou the Holy Hand Grenade in the direction of thine foe, who, being naughty in my sight, shall snuff it." 
+text = "Now did the Lord say, \"First thou pullest the Holy Pin. Then thou must count to three.
+Three shall be the number of the counting and the number of the counting shall be three. Four
+shalt thou not count, neither shalt thou count two, excepting that thou then proceedeth to three.
+Five is right out. Once the number three, being the number of the counting, be reached, then lobbest
+thou the Holy Hand Grenade in the direction of thine foe, who, being naughty in my sight, shall snuff it." 
 ```
 Call: 
 ```
