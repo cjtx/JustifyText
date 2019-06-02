@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
 	name="JustifyText",
-	version="0.2.1.post2",
+	version="0.2.1.post3",
 	author="cjtx",
 	author_email='cjtx.code@gmail.com',
 	license='Apache License 2.0',

@@ -1,13 +1,13 @@
 Metadata-Version: 2.1
 Name: JustifyText
-Version: 0.2.1.post2
+Version: 0.2.1.post3
 Summary: Returns list of strings *exactly* n width
 Home-page: https://github.com/cjtx/JustifyText
 Author: cjtx
 Author-email: cjtx.code@gmail.com
 License: Apache License 2.0
 Description: # JustifyText
-        
+        #### *for monospaced fonts
         ```
         Takes  a  string  and  inserts
         spaces  between  words,  until

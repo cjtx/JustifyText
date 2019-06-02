@@ -1,4 +1,4 @@
-"""Returns list of strings *exactly* n width
+"""Returns list of strings *exactly* n width (using monospaced fonts)
 
 Takes  a  string  and  inserts
 spaces  between  words,  until
